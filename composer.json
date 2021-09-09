@@ -1,0 +1,14 @@
+{
+    "name": "loghman/7todo",
+    "description": "A Simple Todo List Project (With Ajax,Php and mysql)",
+    "type": "project",
+    "license": "MIT",
+    "authors": [{
+        "name": "Loghman Avand",
+        "email": "avand.loghman@gmail.com"
+    }],
+    "minimum-stability": "stable",
+    "require": {
+        "hekmatinasser/verta": "^1.10"
+    }
+}
